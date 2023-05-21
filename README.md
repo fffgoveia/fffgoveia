@@ -2,7 +2,7 @@
 
 
 
-<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabricio-goveia-95a6021b0/)
 
 ### Languages and Tools: 
@@ -24,10 +24,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fffgoveia&layout=donut&theme=dracula)](https://github.com/fffgoveia/github-readme-stats)
 
+
+
 <div align="center">
-
-  ![Snake animation](https://github.com/fffgoveia/fffgoveia/blob/output/github-contribution-grid-snake.svg)
-
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg) 
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
 </div>
-
 <div align="center">
