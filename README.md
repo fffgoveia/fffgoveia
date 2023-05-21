@@ -19,10 +19,9 @@
        <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
        <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
     </div><br/>
-    
-    
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fffgoveia&layout=donut&theme=dracula)](https://github.com/fffgoveia/github-readme-stats)
 
+![Snake animation](https://github.com/fffgoveia/fffgoveia/blob/output/github-contribution-grid-snake.svg)
 
 
