@@ -1,5 +1,6 @@
 ### Hi there 👋, I'm Fabricio Goveia  ☀️
-🪴I am currently deepening my knowledge in JavaScript and learning React Native and Node.js.
+
+🪴I am currently expanding my knowledge of JavaScript and actively learning both React Native and Node.js.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabricio-goveia-95a6021b0/)
 
