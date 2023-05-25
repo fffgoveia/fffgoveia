@@ -15,6 +15,5 @@
 
 
 
-![Snake animation](https://github.com/fffgoveia/fffgoveia/blob/output/github-contribution-grid-snake.svg)
 
 
