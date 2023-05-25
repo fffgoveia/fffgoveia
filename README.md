@@ -9,7 +9,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fffgoveia&layout=donut&theme=dracula)](https://github.com/fffgoveia/github-readme-stats)
 
-
+![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
 
 
 
