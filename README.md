@@ -1,6 +1,15 @@
 ### Hi there 👋, I'm Fabricio Goveia  ☀️
 
-🪴I am currently expanding my knowledge of JavaScript and actively learning both React Native and Node.js.
+
+💻 Sou formado em Análise e Desenvolvimento de Sistemas;
+
+📚 Tenho trabalhado e estudado com NodeJS e ReactNative;
+
+📲 Também possuo experiência na área de suporte de TI;
+
+📝 Compartilho meus conhecimentos e certificados no meu LinkedIn
+
+📫 Me contate através do e-mail fabricio.goveiaf@gmail.com e conheça meus projetos já desenvolvidos, disponíveis aqui nos repertórios!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabricio-goveia-95a6021b0/)
 
