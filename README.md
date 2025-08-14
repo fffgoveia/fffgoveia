@@ -1,13 +1,13 @@
 ### Hi there 👋, I'm Fabricio Goveia  ☀️
 
 
-💻 Sou formado em Análise e Desenvolvimento de Sistemas;
+💻 Formado em Análise e Desenvolvimento de Sistemas;
 
-📚 Tenho trabalhado e estudado com NodeJS e ReactNative;
+📚 Atualmente focado em Python para análise e visualização de dados, além de desenvolvimento com Streamlit;
 
-📲 Também possuo experiência na área de suporte de TI;
+📊 Experiência na área de suporte técnico de TI, gestão de chamados;
 
-📝 Compartilho meus conhecimentos e certificados no meu LinkedIn
+📝 Compartilho meus projetos, aprendizados e certificados no meu LinkedIn.
 
 📫 Me contate através do e-mail fabricio.goveiaf@gmail.com e conheça meus projetos já desenvolvidos, disponíveis aqui nos repertórios!
 
