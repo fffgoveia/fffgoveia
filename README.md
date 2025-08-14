@@ -3,7 +3,7 @@
 
 💻 Formado em Análise e Desenvolvimento de Sistemas;
 
-📚 Atualmente focado em Python para análise e visualização de dados, além de desenvolvimento com Streamlit;
+📚 Atualmente focado em Python para análise e visualização de dados;
 
 📊 Experiência na área de suporte técnico de TI, gestão de chamados;
 
