@@ -10,7 +10,7 @@
 
 📨 Reach me at **fabricio.goveiaf@gmail.com** or on LinkedIn.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-PERFIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fabricio-goveia/)
 
 ---
 
